@@ -1,8 +1,8 @@
 class Ira < Formula
   desc "Terminal file manager built with Ratatui and crossterm"
   homepage "https://github.com/drivesensei/ira"
-  url "https://github.com/drivesensei/ira/releases/download/v0.1.26/ira-0.1.26-universal-apple-darwin.tar.xz"
-  sha256 "21f457878a671d27f63824ab64b44e3fe567e1af72cbf0775ef6b30637ef50f0"
+  url "https://github.com/drivesensei/ira/releases/download/v0.1.27/ira-0.1.27-universal-apple-darwin.tar.xz"
+  sha256 "760715bc15bbe0d89cc52e3856555cc47cc2dbab6975518f72d73ec1ad15c6fa"
   license "MIT"
 
   def install
